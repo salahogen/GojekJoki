@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
    "expiry": "30-11-2025 12:00 PM"
 },
+   "sayasaya": {
+   "password": "$2y$12$KlDL6gZveVHk/tTbBV8k6ej1u9yJeigTdU3TDAU2Vlt4ogkMDmPcO",
+   "devices": ["24090RA29GE4B8F73B122C1264"],
+   "expiry": "31-12-2025 12:00 PM"
+},
 }
