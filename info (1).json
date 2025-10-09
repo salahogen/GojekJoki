@@ -19,4 +19,9 @@
    "devices": ["REDMI5PLUS06675B3D5CB558A3","M2010J19CGCBDAF961E09ACAD7"],
    "expiry": "01-11-2025 12:00 PM"
 },
+   "joki818181": {
+   "password": "$2y$12$2.OepLEYb0qSE8h1JDCCj.L1MHeAktb1dg1tIqIJu1ak9Z42YrwP2",
+   "devices": ["M2004J19C8991D3E97D2158A8"],
+   "expiry": "09-11-2025 12:00 PM"
+},
 }
