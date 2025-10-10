@@ -29,4 +29,9 @@
    "devices": ["SM-G610F3300B21DDB042473"],
    "expiry": "10-11-2025 12:00 PM"
 },
+   "joki121212": {
+   "password": "$2y$12$YlXMdyHEPRZ/2Mi7fjl1e.WPJ9zWxlcL43U9ps.nQXz7GjU8.H8uS",
+   "devices": ["REDMINOTE81A35CE495C770527"],
+   "expiry": "10-11-2025 12:00 PM"
+},
 }
