@@ -24,4 +24,9 @@
    "devices": ["M2004J19C8991D3E97D2158A8"],
    "expiry": "09-11-2025 12:00 PM"
 },
+   "joki3333": {
+   "password": "$2y$12$RH5kgMIO9oXjSHcyQDSB2uX7KEGAfrleZHWcim223eUPUjx3qCg.m",
+   "devices": ["SM-G610F3300B21DDB042473"],
+   "expiry": "10-11-2025 12:00 PM"
+},
 }
