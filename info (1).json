@@ -34,4 +34,9 @@
    "devices": ["REDMINOTE81A35CE495C770527"],
    "expiry": "10-11-2025 12:00 PM"
 },
+   "JOKIJOKI": {
+   "password": "$2y$12$gz68nsjHDg5bNFBIiOC9G.trAALTGNW..qwBbLDqst5M6MrGcpbt6",
+   "devices": ["INFINIXX685308B612BBDCF31DBF"],
+   "expiry": "13-11-2025 12:00 PM"
+},
 }
